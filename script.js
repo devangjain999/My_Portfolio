@@ -50,11 +50,11 @@ function initNavbar() {
 function initTypingEffect() {
     const typingText = document.getElementById('typing-text');
     const phrases = [
+        'Data Analyst',
         'Web Developer',
-        'Front-End', 
-        'Problem Solver',
-        'Code Explorer',
+        'UI/UX Designer',
         'AI Explorer',
+        'Problem Solver',
         'Innovator'
     ];
     
